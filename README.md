@@ -90,3 +90,6 @@ If you'd like to contribute, please fork the repository and create a pull reques
 - Font Awesome for icons
 - Google Fonts for typography
 - All contributors who helped in building this website 
+
+
+Checkout Website : https://prathamsinhparmar.github.io/SCT_WD_1/
